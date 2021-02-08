@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GenshinWikiBot Offical Website
 
-You can use the [editor on GitHub](https://github.com/XxP404xX/GenshinWikiBot-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![logo](https://images.discordapp.net/avatars/792003707591720991/e2802709de402a3d6648849a57e0e0a5.png?size=512)
+
+GenshinWikiBot is 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
