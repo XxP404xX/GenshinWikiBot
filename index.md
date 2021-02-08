@@ -1,6 +1,6 @@
 ## Welcome to GenshinWikiBot Offical Website
 
-![logo](https://images.discordapp.net/avatars/792003707591720991/e2802709de402a3d6648849a57e0e0a5.png?size=512)
+![logo](https://images.discordapp.net/avatars/792003707591720991/e2802709de402a3d6648849a57e0e0a5.png?size=512 =100x20)
 
 GenshinWikiBot is 
 
